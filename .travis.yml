@@ -4,5 +4,5 @@ node_js:
 script:
   - npm test
 after_success:
-  - npm run codeclimate-coverageChange
+  - npm run codeclimate-coverage
 
