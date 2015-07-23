@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - "0.12"
 script:
-  -npm test
+  - npm test
 after_success:
-  -npm run codelimate-coverageChange
+  - npm run codelimate-coverageChange
 
