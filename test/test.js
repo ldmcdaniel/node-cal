@@ -8,3 +8,10 @@ describe('Mocha + Chai', function() {
     false.should.be.false;
   });
 });
+
+describe('Month', function () {
+  it('should be a number between between 3 && 14', function () {
+    Cal.should.equal()
+    var month > 2 && var month < 15;
+  })
+})
