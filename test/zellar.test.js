@@ -19,10 +19,4 @@ describe('zeller', function () {
   it('should be equal to cal date', function () {
     zeller(1, 3, 1900).should.equal(5);
   });
-  // it('should be between between 0 & 6', function () {
-  //   zeller.should.be.within(0, 6);
-  // });
-  // it('should be a whole number between 0 & 6', function () {
-  //   [0,1,2,3,4,5,6].should.include.members([zeller])
-  // })
 })
