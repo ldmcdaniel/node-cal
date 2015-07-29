@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "istanbul cover _mocha",
-    "codeclimate-coverage": "codeclimate-test-reporter < ./coverage/lcov.info"
+    "test": "mocha test/unit --recursive",
+    "test-integration": "mocha test/integration --recursive"
   },
   "repository": {
     "type": "git",
