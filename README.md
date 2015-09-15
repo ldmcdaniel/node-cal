@@ -37,7 +37,7 @@ NPM, Node.js, Mocha, Chai, and Istanbul.
 
 ````node cal````
 
->compared to:
+*compared to:*
 
 ````cal````
 
@@ -45,7 +45,7 @@ NPM, Node.js, Mocha, Chai, and Istanbul.
 
 ````node cal 1999````
 
->compared to:
+*compared to:*
 
 ````cal 1999````
 
@@ -53,7 +53,7 @@ NPM, Node.js, Mocha, Chai, and Istanbul.
 
 ````node cal 12 1955````
 
->compared to:
+*compared to:*
 
 ````cal 12 1955````
 
