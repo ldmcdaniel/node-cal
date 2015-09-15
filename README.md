@@ -37,7 +37,7 @@ NPM, Node.js, Mocha, Chai, and Istanbul.
 
 ````node cal````
 
-*compared to:*
+*Compared to:*
 
 ````cal````
 
