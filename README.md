@@ -37,23 +37,10 @@ NPM, Node.js, Mocha, Chai, and Istanbul.
 
 ````node cal````
 
-*Compared to:*
-
-````cal````
-
 *To display a specific year;*
 
 ````node cal 1999````
 
-*compared to:*
-
-````cal 1999````
-
 *To display a specific month:*
 
 ````node cal 12 1955````
-
-*compared to:*
-
-````cal 12 1955````
-
